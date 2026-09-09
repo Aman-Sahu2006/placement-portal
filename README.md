@@ -109,7 +109,7 @@ Password: admin123
 
 - Max resume upload size is capped at 5 MB (`app.config['MAX_CONTENT_LENGTH']`).
 - Companies and drives require admin approval before becoming visible/active.
-- Update `SECRET_KEY` and the database URI in `app.py` before deploying.
+
 
 ## License
 
